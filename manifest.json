@@ -1,0 +1,26 @@
+{
+  "name": "План дня",
+  "short_name": "План",
+  "description": "Локальный PWA-планировщик дня, привычек, рутин и шаблонов.",
+  "lang": "ru",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#f7f7f8",
+  "background_color": "#fbfbfc",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='44' fill='%23f7f7f8'/%3E%3Crect x='46' y='42' width='100' height='108' rx='28' fill='white'/%3E%3Cpath d='M68 76h56M68 97h38M68 118h48' stroke='%23171719' stroke-width='9' stroke-linecap='round'/%3E%3Ccircle cx='130' cy='120' r='12' fill='%2363c59b'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='118' fill='%23f7f7f8'/%3E%3Crect x='122' y='112' width='268' height='288' rx='76' fill='white'/%3E%3Cpath d='M180 202h152M180 258h104M180 314h130' stroke='%23171719' stroke-width='24' stroke-linecap='round'/%3E%3Ccircle cx='348' cy='318' r='34' fill='%2363c59b'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
